@@ -1,0 +1,47 @@
+
+
+.s-about2 {
+    padding: px;
+    padding-bottom:10px;
+   background-image: url(./images/white-canyon-6c5d2a4c.jpg);
+   background-attachment: fixed;
+    color:black;
+    height: 580px;
+    width: 100%;
+    
+    
+    
+}
+.subheadsubhead--dark2{
+color: black;
+
+}
+.col-full2{
+    color: black;
+}
+.display-1display-1--light2{
+    color: black;
+}
+#services2{
+    padding-top: 15px;
+    margin-top: 10px;
+    background-image: url(./images/white-canyon-6c5d2a4c.jpg);
+    background-attachment: fixed;
+    color: black;
+}
+.center{
+    position: absolute;
+    left:-100px;
+    top: -245px;
+    width: 250px;
+    
+    z-index: -1;
+}
+.sarker{
+ 
+    color: white;
+}
+marquee{
+    font-size: 20px;
+    color: red;
+}
